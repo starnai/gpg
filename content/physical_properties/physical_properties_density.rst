@@ -45,7 +45,7 @@ Below are four common ways to measure density. These are ordered from more basic
 **Basic Method**
 
 The most basic method for measuring a rock's bulk density can be performed in two steps.
-First, the mass (M) of the rock is obtained using a weight scale.
+First, the mass (:math:`m`) of the rock is obtained using a weight scale.
 Next, the rock is fully immersed into a volume of water contained in a graduated cylinder.
 The amount of water which is displaced by the rock is equal to the volume (:math:`V`) of the sample.
 The density of the rock is obtained from
